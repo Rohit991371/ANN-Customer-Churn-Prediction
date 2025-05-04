@@ -1,0 +1,7 @@
+
+1. Go in the respective folder using cd
+2. conda create -p venv python==3.12.4
+3. conda activate venv/
+4. Make requirements.txt
+5. pip install -r requirements.txt
+6. pip install ipykernel
